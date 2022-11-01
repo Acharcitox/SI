@@ -54,7 +54,7 @@
 
             if ( headers_sent() ) {
 
-                echo "<script> window.location.href='index.php?vista=home'</script>";
+                echo "<script> window.location.href='index.php?vista=user_new'</script>";
 
             } else {
 

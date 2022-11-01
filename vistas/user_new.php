@@ -53,4 +53,6 @@
 			<button type="submit" class="button is-info is-rounded">Guardar</button>
 		</p>
 	</form>
+
+	</div>
 </div>
