@@ -1,6 +1,6 @@
 <?php
 
-    session_destroy();
+    session_unset();
 
     if ( headers_sent() ) {
 
